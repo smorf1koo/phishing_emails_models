@@ -1,1 +1,1 @@
-# phishing_emails_models
+# Phishing Detection Model
